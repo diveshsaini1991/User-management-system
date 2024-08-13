@@ -113,7 +113,7 @@ MONGO_URI=YOUR_MONGODB_URI
 
 # Contributing to the User Management Project🤝
 
-We welcome and appreciate contributions from the community to enhance and improve the eCommerce Platform Project. Whether you're a developer, designer, tester, or someone with valuable feedback, your input is valuable.
+We welcome and appreciate contributions from the community to enhance and improve the User Management Project. Whether you're a developer, designer, tester, or someone with valuable feedback, your input is valuable.
 ## Thank You!❤️
 
 Thank you for considering contributing to the User Management Project. Your efforts help make this project better for everyone. If you have any questions or need assistance, feel free to reach out through the issue tracker or discussions. Happy coding🤩!
